@@ -1,4 +1,4 @@
-# Task Management App
+# DOit App
 
 ## Description
 The Task Management App is a comprehensive solution for managing your daily tasks efficiently. It enables users to create, update, and delete tasks with features like reminders and priority-based organization. The app ensures you stay on top of your schedule with timely notifications and a user-friendly interface.
